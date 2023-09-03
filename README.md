@@ -1,3 +1,1 @@
-# test-code ngeh
-ngeh
-oho tenan
+Gabut ya gini
